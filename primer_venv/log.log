@@ -1,0 +1,5 @@
+2022-10-24 17:13:00,859 - INFO - info
+2022-10-24 17:13:00,859 - WARNING - warning
+2022-10-24 17:13:00,859 - ERROR - error
+2022-10-24 17:13:00,859 - CRITICAL - critical
+2022-10-24 17:13:00,859 - INFO - the value of x is 2
